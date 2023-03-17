@@ -1,0 +1,133 @@
+*{
+    box-sizing: border-box;
+}
+
+.text-00{
+    outline: none;
+    width: 201px;
+    height: 45px;
+    background-color: #FFFFFF;
+border: 1px solid #E0E0E0;
+border-radius: 10px;
+}
+.text-2{
+    outline:none;
+    width:593px;
+    height:45px;
+    background-color: #FFFFFF;
+border: 1px solid #E0E0E0;
+border-radius: 10px;
+}
+.text-3{
+    width: 201px;
+    height: 45px;
+    background-color: #FFFFFF;
+border: 1px solid #E0E0E0;
+border-radius: 10px;
+}
+.text-4{
+    width: 115px;
+    height: 45px;
+    background-color: #FFD43A;
+    border-radius: 10px;
+    border: none;
+}
+.search{
+    Width:152px;
+Height:22px;
+display: flex;
+margin: 15px;
+font-size: 25px;
+margin-left: 200px;
+}
+.id{
+    margin: 10px;
+    font-size: 15px;
+    margin-left: 200px;
+}
+.title{
+    margin-left: 170px;
+    font-size: 15px;
+}
+.text-0{
+    margin-left: 560px;
+    font-size: 15px;
+}
+.action{
+    margin-left: 160px;
+    font-size: 15px;
+}
+.box{
+    Width:444px;
+Height:57px;
+font-size: 16px;
+color:#000000;
+margin-top: -5px;
+padding-left: 5px;
+}
+.text{
+    Width:72px;
+Height:57px;
+text-align: center;
+}
+.text-1{
+    Width:276px;
+Height:57px;
+text-align: center;
+}
+.box-1{
+    width: 115px;
+height: 36px;
+background-color: #FFD43A;
+border-radius: 10px;
+margin-top: -5px;
+margin-left: 20px;
+}
+.box-2{
+    width: 115px;
+height: 36px;
+background-color: #E84949;
+border-radius: 10px;
+margin-left: 30px;
+margin-top: -5px;
+}
+.box-3{
+    width: 368px;
+height: 57px;
+display: flex;
+padding: 15px;
+gap: 25px;
+border: 1px  solid #DADADA;
+}
+p{
+    font-size: 17px;
+    margin-top: 7px;
+    text-align: center;
+} 
+table{
+    margin-inline: auto;
+    border: 1px solid 
+    #DADADA;
+    border-collapse: collapse;
+}
+.color{
+    background-color: #F9F9F9;
+    border: 1px solid #DADADA;
+}
+.section{
+    margin-left: 142px;
+} 
+h3{
+    margin-left: 175px;
+}
+.form-1{
+    margin-top: -150px;
+}
+.table-1{
+    border: 1px solid 
+    #DADADA;
+    border: none;
+}
+.zura{
+    padding: 10px;
+}
